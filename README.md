@@ -4,4 +4,4 @@
 ## Link to the mini-projects below
 
 Drum-kit: https://drumkit-jon-hualde.netlify.app/
-Clock: https://distracted-shirley-e353c5.netlify.app/
+Clock: https://clock-jon-hualde.netlify.app/
