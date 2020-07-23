@@ -3,7 +3,7 @@
 
 ## Link to the mini-projects below
 
-#### Drum-kit: https://drumkit-jon-hualde.netlify.app/
+Drum-kit: https://drumkit-jon-hualde.netlify.app/
 ####
 Clock: https://clock-jon-hualde.netlify.app/
 ####
