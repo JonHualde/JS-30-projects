@@ -9,3 +9,5 @@ Clock: https://clock-jon-hualde.netlify.app/
 ####
 CSS-variables: https://css-variables-jon-hualde.netlify.app/
 ####
+Flex-panels: https://flex-panel-gallery-jon-hualde.netlify.app/
+####
