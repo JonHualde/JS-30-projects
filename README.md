@@ -11,3 +11,5 @@ CSS-variables: https://css-variables-jon-hualde.netlify.app/
 ####
 Flex-panels: https://flex-panel-gallery-jon-hualde.netlify.app/
 ####
+Ajax type ahead: https://ajax-type-ahead-jon-hualde.netlify.app/
+####
