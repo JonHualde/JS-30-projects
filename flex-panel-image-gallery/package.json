@@ -1,0 +1,12 @@
+{
+  "name": "flex-panel-image-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "panel.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
