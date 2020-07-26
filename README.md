@@ -15,5 +15,5 @@ Ajax type ahead: https://ajax-type-ahead-jon-hualde.netlify.app/
 ####
 Drawing with canvas: https://drawing-canvas-jon-hualde.netlify.app/
 ####
-
+Shift hold checkboxes: https://shift-hold-checkboxes-jon-hualde.netlify.app/
 ####
