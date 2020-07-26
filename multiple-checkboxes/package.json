@@ -1,0 +1,12 @@
+{
+  "name": "multiple-checkboxes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "boxes.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
