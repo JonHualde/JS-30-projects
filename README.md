@@ -17,3 +17,5 @@ Drawing with canvas: https://drawing-canvas-jon-hualde.netlify.app/
 ####
 Shift hold checkboxes: https://shift-hold-checkboxes-jon-hualde.netlify.app/
 ####
+Custom video player: https://video-custom-player-jon-hualde.netlify.app/
+####
