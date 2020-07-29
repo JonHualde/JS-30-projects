@@ -19,3 +19,5 @@ Shift hold checkboxes: https://shift-hold-checkboxes-jon-hualde.netlify.app/
 ####
 Custom video player: https://video-custom-player-jon-hualde.netlify.app/
 ####
+slide-in-on-scroll: https://slide-in-on-scroll-jon-hualde.netlify.app/
+####
