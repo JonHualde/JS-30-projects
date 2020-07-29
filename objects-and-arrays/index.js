@@ -59,4 +59,4 @@ const captain3 = {...person,  age: 50 };
 console.log(captain3)
 
 // Things to note - this is only 1 level deep - both for Arrays and Objects. lodash has a cloneDeep method, but you should think twice before using it.
-const captain4 = JSON.parse(JSON.stringify(Jon))
+const captain4 = JSON.parse(JSON.stringify(Jon));
