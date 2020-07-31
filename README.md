@@ -23,3 +23,5 @@ slide-in-on-scroll: https://slide-in-on-scroll-jon-hualde.netlify.app/
 ####
 Localstorage & Event delegation: https://localstorage-event-delegation-jon-hualde.netlify.app/
 ####
+CSS text shadow: https://css-text-shadow-jon-hualde.netlify.app/
+####
