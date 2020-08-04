@@ -1,5 +1,5 @@
 # JS-30-projects
-30 projects made with Vanilla JS.
+30 projects made with Vanilla JS
 
 ## Link to the mini-projects below
 
